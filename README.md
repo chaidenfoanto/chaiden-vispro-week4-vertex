@@ -1,4 +1,4 @@
-# Travelling Salesman Problem (TSP) Solver
+# Project Vertex dengan Pendekatan Travelling Salesman Problem (TSP)
 
 Proyek ini merupakan implementasi sederhana untuk menyelesaikan masalah **Travelling Salesman Problem (TSP)** menggunakan metode **brute force**. Program akan mencari rute terbaik dengan jarak terpendek untuk mengunjungi setiap vertex (titik) sekali dan kembali ke titik awal.
 
