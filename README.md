@@ -36,12 +36,12 @@ Algoritma ini bekerja dengan:
 
 1. **Clone Repository**:
    ```bash
-   git clone https://github.com/chaidenfoanto/chaiden-vispro-weel4-vertex.git
+   git clone https://github.com/chaidenfoanto/chaiden-vispro-week4-vertex.git
     ```
 
 2. **Masuk ke Folder Proyek**:
    ```bash
-   cd chaiden-vispro-weel4-vertex.git
+   cd chaiden-vispro-week4-vertex.git
     ```
 
 4. **Jalankan Program**: Program ini menggunakan bahasa Dart, jadi pastikan Dart SDK sudah terinstall.
